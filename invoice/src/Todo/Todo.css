@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Todo>div:nth-child(2){
+    width: 40%;
+    margin: auto;
+    margin-top: 30px;
+}
+.input-wrapper>input{
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+}
+.input-wrapper>button{
+    width: 200px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: green;
+    border: none;
+    outline: none;
+}
